@@ -1,0 +1,15 @@
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.exe
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.deps.json
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.runtimeconfig.json
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.dll
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.pdb
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfo.cs
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.dll
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\refint\Example001_Hello_Console.dll
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.pdb
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.genruntimeconfig.cache
+C:\Users\Азамат\Desktop\GB Разработчик\C#\Lesson1804\Examples\Example001_Hello_Console\obj\Debug\net6.0\ref\Example001_Hello_Console.dll
